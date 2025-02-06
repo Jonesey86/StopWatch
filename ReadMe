@@ -1,1 +1,33 @@
+Easy to use Stop Watch 
+
+*A simple Stop Watch made using Visual Studio Code. 
+
+*This project shows basic development principles, 
+
+
+Features
+
+*One user friendly
+
+*Start-Reset and Pause functionality allows the user to have full controll of the Stop Watch.
+
+Tech used
+
+Language: Java Script, HTML, CSS.
+
+
+
+How to run the Stop Watch 
+
+1. Clone repository : https://github.com/Jonesey86/StopWatch
+
+2. Open Open the solution file (`StopWatch.sln`) in Visual Studio Code.
+
+3. Rebuild solution.
+
+4. Run the StopWatch.
+
+
+
+
 
